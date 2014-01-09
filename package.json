@@ -1,6 +1,6 @@
 {
   "name": "dev-null-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pipe streams to /dev/null",
   "main": "index.js",
   "directories": {
