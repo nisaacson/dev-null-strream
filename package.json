@@ -1,7 +1,7 @@
 {
-  "name": "json-stringify-stream",
-  "version": "0.1.1",
-  "description": "JSON.stringify transform stream",
+  "name": "dev-null-stream",
+  "version": "0.0.0",
+  "description": "Pipe streams to /dev/null",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -13,21 +13,23 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "~1.8.1",
-    "mocha": "~1.16.2",
+    "mocha": "~1.17.0",
     "sinon": "~1.7.3",
     "lodash-node": "~2.4.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/nisaacson/json-stringify-stream.git"
-  },
   "keywords": [
     "stream",
-    "json",
+    "/dev/null",
+    "dev",
+    "null",
     "parse"
   ],
-  "bugs": {
-    "url": "https://github.com/nisaacson/json-stringify-stream/issues"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nisaacson/dev-null-strream.git"
   },
-  "homepage": "https://github.com/nisaacson/json-stringify-stream"
+  "bugs": {
+    "url": "https://github.com/nisaacson/dev-null-strream/issues"
+  },
+  "homepage": "https://github.com/nisaacson/dev-null-strream"
 }

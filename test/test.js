@@ -1,7 +1,7 @@
 var stream = require('stream')
-var _ = require('lodash-node')
-var sinon = require('sinon')
 var expect = require('chai').expect
+var _ = require('lodash-node')
+
 var DevNullStream = require('../')
 
 var numRows = 10
